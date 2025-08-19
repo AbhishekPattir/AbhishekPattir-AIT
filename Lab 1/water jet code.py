@@ -3,7 +3,6 @@
 # Taking input from user
 cj1, cj2, cj3 = map(int, input("Enter capacities of jug1, jug2 and jug3: ").split())
 goal = int(input("Enter the goal amount: "))
-
 j1 = 0
 j2 = 0
 j3 = 0
